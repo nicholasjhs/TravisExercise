@@ -16,5 +16,7 @@
             <classpath refid="TravisExercise.classpath"/>
         </javac>
 	</target>
+	<target name="test">
+	</target>
 
 </project>
